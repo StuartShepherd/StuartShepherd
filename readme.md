@@ -1,6 +1,6 @@
 <h1 align="center">
     <a href="https://stuartshepherd.com">
-        <img src="https://res.cloudinary.com/stuartshepherd/image/upload/v1783378402/stuartshepherd-white-logo_omajpr.svg">
+        <img src="https://res.cloudinary.com/stuartshepherd/image/upload/v1783378402/stuartshepherd-white-logo_omajpr.svg" width="120">
     </a>
     <br>
         Stuart Shepherd
