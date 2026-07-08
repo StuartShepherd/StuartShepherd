@@ -1,10 +1,11 @@
-<h1 align="center">
+<div align="center">
     <a href="https://stuartshepherd.com">
         <img src="https://res.cloudinary.com/stuartshepherd/image/upload/v1783386864/stuart-shepherd-banner.png" width="100%">
     </a>
-    <br>
-        Stuart Shepherd
-    <br>
+</div>
+
+<h1>
+    Stuart Shepherd
 </h1>
 
 <h4 align="center">
