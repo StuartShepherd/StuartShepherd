@@ -4,11 +4,11 @@
     </a>
 </div>
 
-<h1>
+<h1 align="center">
     Stuart Shepherd
 </h1>
 
-<h2>
+<h2 align="center">
     Senior .NET Developer | C# | ASP.NET Core | Web Developer
 </h2>
 
@@ -72,11 +72,3 @@ If you want to say hello or have any questions, you can find me:
 - [GitHub](https://github.com/stuartshepherd)
 - [LinkedIn](https://www.linkedin.com/in/stuartjshepherd/)   
 </details>
-
-## Support
-
-#### Buy me a coffee
-
-<a href="https://www.buymeacoffee.com/stuartshepherd" target="_blank">
-    <img src="./.github/assets/buymeacoffee.png" alt="Buy Me A Coffee" style="width: 100px !important;">
-</a>
