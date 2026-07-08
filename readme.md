@@ -47,6 +47,7 @@ The technologies I'm currently using for projects are:
 
 &nbsp;&nbsp;&nbsp;&nbsp;&check;&nbsp;&nbsp;C#<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&check;&nbsp;&nbsp;React<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&check;&nbsp;&nbsp;Vue<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&check;&nbsp;&nbsp;TypeScript<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&check;&nbsp;&nbsp;JavaScript<br>
 
