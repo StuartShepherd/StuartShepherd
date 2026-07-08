@@ -16,14 +16,14 @@
 
 Hello, I'm Stuart
 
-I'm seasoned full-stack `.NET developer` with over two decades of experience. I specialize in crafting form-based and web-based applications using the `Microsoft Software Stack`'. 
+I'm seasoned full-stack `.NET developer` with over three decades of experience. I specialize in crafting form-based and web-based applications using the `Microsoft Software Stack`'. 
 My expertise covers the entire software development lifecycle, from requirement gathering to project management, resulting in successful deployments.
 
 I excel in team-driven and solo environments, offering innovative solutions with a keen eye for detail. 
 
 I possess extensive expertise in working with content management systems, including `Kentico Xperience`, `Umbraco`, and `Kontent AI`.
 
-My skills encompass technologies like `C#`, `React`, `TypeScript`, `HTML`, `CSS`, and I have experience of working with `CSS frameworks`, including `Tailwind`, `Bootstrap`, and `Foundation`. 
+My skills encompass technologies like `C#`, `React`, `Vue`, `TypeScript`, `HTML`, `CSS`, and I have experience of working with `CSS frameworks`, including `Tailwind`, `Bootstrap`, and `Foundation`. 
 My skill set extends to database management, with expertise `SQL Server` and `MySQL`, alongside proficiency in data access technologies like `Entity Framework` and `ADO.NET`.
 
 I'm proficient in version control systems like `BitBucket`, and `GitHub`. In testing, I use frameworks like `MSTest`, `NUnit`, and `xUnit` to ensure software reliability. 
