@@ -21,7 +21,7 @@ My expertise covers the entire software development lifecycle, from requirement 
 
 I excel in team-driven and solo environments, offering innovative solutions with a keen eye for detail. 
 
-I possess extensive expertise in working with content management systems, including `Kentico Xperience`, `Umbraco`, and `Kontent AI`.
+I possess extensive expertise in working with content management systems, including `Xperience by Kentico`, `Umbraco`, and `Kontent AI`.
 
 My skills encompass technologies like `C#`, `React`, `Vue`, `TypeScript`, `HTML`, `CSS`, and I have experience of working with `CSS frameworks`, including `Tailwind`, `Bootstrap`, and `Foundation`. 
 My skill set extends to database management, with expertise `SQL Server` and `MySQL`, alongside proficiency in data access technologies like `Entity Framework` and `ADO.NET`.
@@ -39,7 +39,7 @@ The technologies I'm currently using for projects are:
 
 #### Content Management Systems
 
-&nbsp;&nbsp;&nbsp;&nbsp;&check;&nbsp;&nbsp;Kentico Xperience<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&check;&nbsp;&nbsp;Xperience by Kentico<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&check;&nbsp;&nbsp;Kontent.ai<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&check;&nbsp;&nbsp;Umbraco<br>
 
