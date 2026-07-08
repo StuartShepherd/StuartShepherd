@@ -8,9 +8,9 @@
     Stuart Shepherd
 </h1>
 
-<h4 align="center">
+<h2>
     Senior .NET Developer | C# | ASP.NET Core | Web Developer
-</h4>
+</h2>
 
 ## Introduction
 
