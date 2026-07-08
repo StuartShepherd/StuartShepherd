@@ -4,13 +4,13 @@
     </a>
 </div>
 
-<h1 align="center">
-    Stuart Shepherd
-</h1>
+<p align="center">
+  <strong style="font-size: 2em;">Stuart Shepherd</strong>
+</p>
 
-<h2 align="center">
-    Senior .NET Developer | C# | ASP.NET Core | Web Developer
-</h2>
+<p align="center">
+  <strong style="font-size: 1em;">Senior .NET Developer | C# | ASP.NET Core | Web Developer</strong>
+</p>
 
 ## Introduction
 
