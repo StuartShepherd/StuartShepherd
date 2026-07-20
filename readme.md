@@ -1,6 +1,6 @@
 <div align="center">
     <a href="https://stuartshepherd.com">
-        <img src="https://res.cloudinary.com/stuartshepherd/image/upload/v1783386864/stuart-shepherd-banner.png" width="100%">
+        <img src="https://res.cloudinary.com/stuartshepherd/image/upload/v1783386864/stuart-shepherd-dark-banner.png" width="100%">
     </a>
 </div>
 
