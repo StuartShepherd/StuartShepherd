@@ -14,7 +14,7 @@
 
 ## Introduction
 
-### Hi, I'm Stuart
+Hello, I'm Stuart
 
 I'm a full-stack .NET developer with 30+ years building form-based and web applications on the Microsoft stack, from gathering requirements through to shipping and supporting the finished product.
 
