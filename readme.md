@@ -21,10 +21,15 @@ I'm a full-stack .NET developer with 30+ years building form-based and web appli
 **CMS platforms:** Xperience by Kentico, Umbraco, Kontent.ai
 
 **Languages & frameworks:** C#, TypeScript, React, Vue, HTML, CSS
+
 **CSS:** Tailwind, Bootstrap
+
 **Data:** SQL Server, MySQL, Entity Framework Core, ADO.NET
+
 **Testing:** xUnit, NUnit, MSTest
+
 **Cloud & hosting:** Azure, AWS, Cloudflare
+
 **Version control:** Git, GitHub, Bitbucket
 
 I build to Clean Architecture, SOLID, and DRY, always using best practices and I'm comfortable leading a project end-to-end or slotting into an existing team.
