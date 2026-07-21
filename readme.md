@@ -27,7 +27,7 @@ I'm a full-stack .NET developer with 30+ years building form-based and web appli
 **Cloud & hosting:** Azure, AWS, Cloudflare
 **Version control:** Git, GitHub, Bitbucket
 
-I build to Clean Architecture, SOLID, and DRY, and I'm comfortable leading a project end-to-end or slotting into an existing team.
+I build to Clean Architecture, SOLID, and DRY, always using best practices and I'm comfortable leading a project end-to-end or slotting into an existing team.
 
 <details>
 <summary>
